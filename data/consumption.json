@@ -1,0 +1,8 @@
+[
+  { "fecha": "2024-10-01", "nombre": "Antiescalante", "consumo": 5, "stock_restante": 145 },
+  { "fecha": "2024-10-01", "nombre": "Hipoclorito", "consumo": 4, "stock_restante": 115 },
+  { "fecha": "2024-10-01", "nombre": "Cloruro férrico", "consumo": 3, "stock_restante": 73 },
+  { "fecha": "2024-10-02", "nombre": "Antiescalante", "consumo": 5, "stock_restante": 140 },
+  { "fecha": "2024-10-02", "nombre": "Hipoclorito", "consumo": 5, "stock_restante": 110 },
+  { "fecha": "2024-10-02", "nombre": "Cloruro férrico", "consumo": 3, "stock_restante": 70 }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "fecha": "2024-10-01",
+    "presiones": { "entrada": 180, "salida": 170, "rechazo": 60 },
+    "caudales_gpm": { "permeado": 45, "rechazo": 18, "recirculacion": 12 }
+  },
+  {
+    "fecha": "2024-10-02",
+    "presiones": { "entrada": 185, "salida": 170, "rechazo": 62 },
+    "caudales_gpm": { "permeado": 46, "rechazo": 17, "recirculacion": 11 }
+  }
+]

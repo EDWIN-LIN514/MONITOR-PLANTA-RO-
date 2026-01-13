@@ -1,0 +1,5 @@
+[
+  { "nombre": "Antiescalante", "stock_inicial": 200, "stock": 140, "unidad": "L" },
+  { "nombre": "Hipoclorito", "stock_inicial": 150, "stock": 110, "unidad": "L" },
+  { "nombre": "Cloruro férrico", "stock_inicial": 100, "stock": 70, "unidad": "L" }
+]
